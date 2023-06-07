@@ -6,6 +6,7 @@ import 'package:supabase_flutter/supabase_flutter.dart';
 import 'views/menu.dart';
 import 'views/themes/colors.dart';
 
+//test
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
